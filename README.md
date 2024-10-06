@@ -53,5 +53,17 @@ Region, Market, Store, Trade_Date, Mode, Line_Of_Business, Revenue, Units_Sold, 
 from [dbo].[AnthonyandSonsLimited]
 ```
 
+```SQL
+Select * from [dbo].[VW_Anthony_and_Sons_Limited]
+```
+
+- ### Data Transformation
+
+The data require no tranformation as it was already structured
+
+- ### Data Loading
+
+The view data was loaded on excel for **Analysis** and **Visualization**
+
 
 
