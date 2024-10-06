@@ -16,10 +16,16 @@ The data set for analysis will be selected form an open source platforms provide
 
 ### Tools Used
 Throughout the training i will be using the following tools and software
-Mircosoft Excel
-For Data Cleaning
-For Analysis
-For Data Visualisation
-SQL- Structured Query Language for queryinf Data
 
-GIThub for portfolio buidling
+- Mircosoft Excel
+  1. For Data Cleaning
+  2. For Analysis
+  3. For Data Visualisation
+     
+- SQL (Structed Query Language) for:
+   
+    1. Data Storage
+    2. Data Querying and Manipulation
+       
+   [Download SQL](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+
