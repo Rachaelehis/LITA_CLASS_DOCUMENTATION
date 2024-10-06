@@ -103,3 +103,5 @@ With the use of Pivot table in excel, our large dataset was summarised and the t
 **Units Sold by Region**
 
 ![image](https://github.com/user-attachments/assets/d783c9bf-5fe9-4f17-a369-1e66d0eb5d0c)
+
+[Click here to go back to the start](#LITA_CLASS_DOCUMENTATION)
