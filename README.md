@@ -40,4 +40,5 @@ Select * from [dbo].[Anthony and Sons Limited]
 ```
 
 Output:
+
 ![Anthony and Sons Limited image](https://github.com/user-attachments/assets/b1298dfa-464a-42f2-9643-0f3dc57995fb)
