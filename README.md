@@ -65,5 +65,41 @@ The data require no tranformation as it was already structured
 
 The view data was loaded on excel for **Analysis** and **Visualization**
 
+### Data Analysis
 
+With the use of Pivot table in excel, our large dataset was summarised and the table below was extracted for visualization
 
+**Region by Revenue,**	
+
+   |**Region**|**Revenue**|
+|--------------|-----------------|
+|**Row Labels**|Sum of Revenue| 
+|**North Central**|2,170,467,840|
+|**North East**|6,152,217,480|
+|**North West**|3,224,784,960|
+|**South East**|3,577,417,920|
+|**South South**|4,119,141,480|
+|**South West**|5,323,352,400|
+|**Grand Total**|24,567,382,080|
+
+**Region by Units Sold**
+
+   |**Region**|**Units Sold**|
+|--------------|--------------| 
+|**North Central**|18,635|
+|**North East**|70,401|
+|**North West**|36,040|
+|**South East**|41,576|
+|**South South**|43,785|
+|**South West**|59,228|
+|**Grand Total**|269,665|
+
+### Data Visualization
+
+**Region by Revenue**
+
+![image](https://github.com/user-attachments/assets/6d2ebf86-e425-4e2c-a69a-5ceb34a573be)
+
+**Units Sold by Region**
+
+![image](https://github.com/user-attachments/assets/d783c9bf-5fe9-4f17-a369-1e66d0eb5d0c)
