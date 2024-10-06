@@ -6,7 +6,7 @@
 
    [Tools Used](#Tools-Used)
  
-   [Data Cleansing Preparation](#Data-Cleansing-Preparation)
+  [Data Extraction, Transformation, and Loading](#Data-Extraction-Transformation-and-Loading)
  
 ### Project Overview
 The primary aim of the project is to able to acquire knowledge and skills on data analysis. The focus will be on understanding,presenting and interpreting data adequately to get meaningful results. By the end of this project, I aim to be able to develop skills in using data analysis tools, interpreting data and present my findings appropriately.
@@ -21,11 +21,12 @@ Throughout the training i will be using the following tools and software
   1. For Data Cleaning
   2. For Analysis
   3. For Data Visualisation
-     
-- SQL (Structed Query Language) for:
    
-    1. Data Storage
-    2. Data Querying and Manipulation
-       
-   [Download SQL](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+[Download Microsoft Excel](https://microsoft-excel-2016.en.download.it/#google_vignette)
+    
+- SQL (Structed Query Language) for:
+   1. Data Storage
+   2. Data Querying and Manipulation
+    
+[Download SQL](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
