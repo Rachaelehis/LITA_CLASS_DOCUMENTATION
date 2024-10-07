@@ -6,7 +6,9 @@
 
    - [Tools Used](#Tools-Used)
  
-   - [Data Extraction, Transformation, and Loading](#Data-Extraction-Transformation-and-Loading)
+   - [Data Extraction, Data Transformation, and Data Loading](#Data-Extraction-Data-Transformation-and-Data-Loading)
+
+   - [Data Analysis](#Data-Analysis)
  
 - ### Project Overview
 The primary aim of the project is to able to acquire knowledge and skills on data analysis. The focus will be on understanding,presenting and interpreting data adequately to get meaningful results. By the end of this project, I aim to be able to develop skills in using data analysis tools, interpreting data and present my findings appropriately.
@@ -30,7 +32,9 @@ Throughout the training i will be using the following tools and software
     
 [Download SQL](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
-- ### Data Extraction
+### Data Extraction, Transformation, and Data Loading
+
+ - Data Extraction
 
 Our data was extracted from **SSMS (SQL Server Management Studio)** using the query below:
 
@@ -57,11 +61,11 @@ from [dbo].[AnthonyandSonsLimited]
 Select * from [dbo].[VW_Anthony_and_Sons_Limited]
 ```
 
-- ### Data Transformation
+- Data Transformation
 
 The data require no tranformation as it was already structured
 
-- ### Data Loading
+- Data Loading
 
 The view data was loaded on excel for **Analysis** and **Visualization**
 
