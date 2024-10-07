@@ -36,9 +36,7 @@ Throughout the training i will be using the following tools and software
     
 [Download SQL](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
-### Data Extraction, Transformation, and Data Loading
-
- - Data Extraction
+- ### Data Extraction
 
 Our data was extracted from **SSMS (SQL Server Management Studio)** using the query below:
 
@@ -65,15 +63,15 @@ from [dbo].[AnthonyandSonsLimited]
 Select * from [dbo].[VW_Anthony_and_Sons_Limited]
 ```
 
-- Data Transformation
+- ### Data Transformation
 
 The data require no tranformation as it was already structured
 
-- Data Loading
+- ### Data Loading
 
 The view data was loaded on excel for **Analysis** and **Visualization**
 
-### Data Analysis
+- ### Data Analysis
 
 With the use of Pivot table in excel, our large dataset was summarised and the table below was extracted for visualization
 
