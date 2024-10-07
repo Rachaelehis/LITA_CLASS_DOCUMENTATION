@@ -6,7 +6,11 @@
 
    - [Tools Used](#Tools-Used)
  
-   - [Data Extraction, Data Transformation, and Data Loading](#Data-Extraction-Data-Transformation-and-Data-Loading)
+   - [Data Extraction](#Data-Extraction)
+   
+   - [Data Transformation](#Data-Transformation)
+     
+   - [Data Loading](#Data-Loading)
 
    - [Data Analysis](#Data-Analysis)
  
